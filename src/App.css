@@ -1,0 +1,15 @@
+div.pokebal{
+  background-color: rgb(41, 115, 138);
+height: 100%;
+width: 100%;
+}
+div.pokeball{
+  background-color: rgb(255, 3, 3);
+height: 80px;
+width: 100%;
+}
+div.layer-white{
+  background-color: rgb(154, 127, 127)(255, 3, 3);
+height: 80px;
+width: 100%;
+}
